@@ -18,8 +18,8 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/gioivieira">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gioivieira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioivieira&layout=compact"/>  
+  <img height="153em" src="https://github-readme-stats.vercel.app/api?username=gioivieira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="153em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioivieira&layout=compact"/>  
 </div>
 
   <br>
