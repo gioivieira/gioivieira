@@ -18,8 +18,8 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/gioivieira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gioivieira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioivieira&theme=buefy&layout=compact"/>  
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gioivieira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioivieira&layout=compact"/>  
 </div>
 
   <br>
@@ -43,11 +43,11 @@
   <div align="center"> 
     
    <a href="https://www.linkedin.com/in/gioivieira/" target="_blank">
-	<img height="50" width="50" src="https://img.icons8.com/color/344/linkedin.png"/>
+	<img height="55" width="55" src="https://img.icons8.com/color/344/linkedin.png"/>
    </a> 	
 	
    <a href="https://www.instagram.com/gioivieira/" target="_blank">
-	 <img height="50" width="50" src="https://img.icons8.com/fluency/344/instagram-new.png"/>
+	 <img height="55" width="55" src="https://img.icons8.com/fluency/344/instagram-new.png"/>
    </a> 
  
 </div>
