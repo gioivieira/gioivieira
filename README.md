@@ -17,28 +17,28 @@
 
   <br>
 
-<div align="center" style="display: inline_block">
+<div align="center">
   
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/javascript--v1.png"/>
+  <img align="center" height="38" width="38" src="https://img.icons8.com/color/344/javascript--v1.png"/>
  
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/css3.png"/>
+  <img align="center" height="38" width="38" src="https://img.icons8.com/color/344/css3.png"/>
   
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/html-5--v1.png"/>
+  <img align="center" height="38" width="38" src="https://img.icons8.com/color/344/html-5--v1.png"/>
   
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/344/react-native.png"/>
+  <img align="center" height="38" width="38" src="https://img.icons8.com/color/344/react-native.png"/>
   
 </div>
   
   <hr>
   
-  <div align="center" style="display: inline_block"> 
+  <div align="center"> 
     
    <a href="https://www.linkedin.com/in/gioivieira/" target="_blank">
-	<img height="40" width="40" src="https://img.icons8.com/color/344/linkedin-2--v1.png"/>
+	<img height="38" width="38" src="https://img.icons8.com/color/344/linkedin.png"/>
    </a> 	
 	
    <a href="https://www.instagram.com/gioivieira/" target="_blank">
-	 <img height="40" width="40" src="https://img.icons8.com/fluency/344/instagram-new.png"/>
+	 <img height="38" width="38" src="https://img.icons8.com/fluency/344/instagram-new.png"/>
    </a> 
  
 </div>
