@@ -18,22 +18,23 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/gioivieira">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=gioivieira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioivieira&theme=buefy&layout=compact"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gioivieira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioivieira&theme=buefy&layout=compact"/>  
 </div>
 
   <br>
   <br>
 
 <div align="center">
+
+
+  <img align="center" height="43" width="43" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png"/>
   
-  <img align="center" height="43" width="43" src="https://img.icons8.com/color/344/javascript--v1.png"/>
- 
-  <img align="center" height="43" width="43" src="https://img.icons8.com/color/344/css3.png"/>
+  <img align="center" height="43" width="43" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"/>
   
-  <img align="center" height="43" width="43" src="https://img.icons8.com/color/344/html-5--v1.png"/>
+  <img align="center" height="43" width="43" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
   
-  <img align="center" height="43" width="43" src="https://img.icons8.com/color/344/react-native.png"/>
+  <img align="center" height="43" width="43" src="https://cdn-icons-png.flaticon.com/512/875/875209.png"/>
   
 </div>
   
