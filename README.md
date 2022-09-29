@@ -10,7 +10,7 @@
 
 <br>
 
-<div style="display: inline_block" align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/gioivieira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gioivieira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioivieira&layout=compact&langs_count=7&theme=buefy"/>
@@ -32,7 +32,7 @@
   
   <hr>
   
-  <div align="center"> 
+  <div align="center" style="display: inline_block"> 
     
    <a href="https://www.linkedin.com/in/gioivieira/" target="_blank">
 	<img height="40" width="40" src="https://img.icons8.com/color/344/linkedin-2--v1.png"/>
