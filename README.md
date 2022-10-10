@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <p>Meu nome é Giovana Vieira, tenho 23 anos. Sou apaixonada por tecnologia. Estou estudando e me preparando tecnicamente pra ser uma Desenvolvedora Full Stack. Busco oportunidade na área a fim de aprimorar meu conhecimento, técnica, prática, iniciar meu plano de carreira e contribuir com minhas habilidades na minha futura empresa contratante.</p>
+  <p>Meu nome é Giovana Vieira, tenho 23 anos. Apaixonada por tecnologia. Estou estudando e me preparando tecnicamente pra ser uma Desenvolvedora Full Stack. Busco oportunidade na área a fim de aprimorar meu conhecimento, técnica, prática e iniciar meu plano de carreira.</p>
 </div>
 
 <br>
