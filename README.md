@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <p>Meu nome é Giovana Vieira, tenho 23 anos. Sou apaixonada por tecnologia e estou me preparando tecnicamente para ser uma Desenvolvedora Full Stack no bootcamp da Labenu com conteúdo focado tanto em hard skills, quanto em soft skills. Busco oportunidade na área a fim de aprimorar meu conhecimento, técnica, prática e iniciar meu plano de carreira.</p>
+  <p>Meu nome é Giovana Vieira, tenho 23 anos. Sou apaixonada por tecnologia e estou me preparando tecnicamente para ser uma Desenvolvedora Full Stack no bootcamp da Labenu com conteúdo focado tanto em hard skills, quanto em soft skills. Algumas das tecnologias que já possuo conhecimento e prática são HTML, CSS, JavaScript, React.js, Node.js, TypeScript e MySQL.</p>
 </div>
 
 <br>
@@ -35,6 +35,12 @@
   
   <img align="center" height="43" width="43" src="https://cdn-icons-png.flaticon.com/512/875/875209.png" alt="Icon React.js"/>
   
+  <img align="center" height="43" width="43" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Icon Node.js"/>
+  
+  <img align="center" height="43" width="43" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Icon TypeScript"/>
+  
+  <img align="center" height="43" width="43" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" alt="Icon MySQL"/>
+  
 </div>
   
   <hr>
@@ -44,10 +50,6 @@
    <a href="https://www.linkedin.com/in/gioivieira/" target="_blank">
 	<img height="55" width="55" src="https://img.icons8.com/color/344/linkedin.png" alt="Icon Linkedin"/>
    </a> 	
-	
-   <a href="https://www.instagram.com/gioivieira/" target="_blank">
-	 <img height="55" width="55" src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Icon Instagram"/>
-   </a> 
  
 </div>
 
