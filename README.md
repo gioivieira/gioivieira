@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <p>Meu nome é Giovana Vieira, tenho 23 anos. Sou apaixonada por tecnologia e estou me preparando tecnicamente para ser uma Desenvolvedora Full Stack no bootcamp da Labenu com conteúdo focado tanto em hard skills, quanto em soft skills. Algumas das tecnologias que já possuo conhecimento e prática são HTML, CSS, JavaScript, React.js, Node.js, TypeScript e MySQL.</p>
+  <p>Meu nome é Giovana Vieira, tenho 24 anos. Sou apaixonada por tecnologia e estou me preparando tecnicamente para ser uma Desenvolvedora Full Stack. Algumas das tecnologias que já possuo conhecimento e prática são HTML, CSS, JavaScript, React.js, Node.js, TypeScript e MySQL.</p>
 </div>
 
 <br>
