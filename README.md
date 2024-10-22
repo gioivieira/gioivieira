@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <p>Meu nome é Giovana Vieira, tenho 25 anos. Sou apaixonada por tecnologia e estou me preparando tecnicamente para ser uma Desenvolvedora Full Stack. Algumas das tecnologias que já possuo conhecimento e prática são HTML, CSS, JavaScript, React.js, Node.js, TypeScript e MySQL.</p>
+  <p>Meu nome é Giovana Vieira, tenho 25 anos. Sou Analista de QA com experiência em testes automatizados, utilizando ferramentas como Jest, Puppeteer e Postman, além de expertise em testes manuais. Me formei em Gestão da Tecnologia da Informação pela Universidade de Franca e no bootcamp de Desenvolvimento Web Full Stack pela Labenu, onde desenvolvi e implementei projetos utilizando React, Node.js e MySQL.</p>
 </div>
 
 <br>
